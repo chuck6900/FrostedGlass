@@ -593,7 +593,7 @@ textarea {
 #app-mount .guilds__5e434 {
   background-color: transparent;
 }
-#app-mount .guilds__5e434 .footer__214dc {
+#app-mount .guilds__5e434 .footer_faa96b {
   background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
 #app-mount .guilds__5e434 .tree_ef3116 {
@@ -607,7 +607,7 @@ textarea {
   background: var(--gradient);
   background-color: transparent;
 }
-#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper__8436d::before {
+#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper_ef3116::before {
   content: "";
   border-radius: 50%;
   position: absolute;
@@ -619,7 +619,7 @@ textarea {
   width: 100%;
   transition: 0.2s ease;
 }
-#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper__8436d.selected_ae80f7::before {
+#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper_ef3116.selected_ae80f7::before {
   border-radius: 30%;
 }
 #app-mount .guilds__5e434 .tutorialContainer__1f388 .homeIcon__560eb {
