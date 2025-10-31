@@ -619,13 +619,13 @@ textarea {
   width: 100%;
   transition: 0.2s ease;
 }
-#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper_ef3116.selected_ae80f7::before {
+#app-mount .guilds__5e434 .tutorialContainer__1f388 .listItem__650eb:first-child .wrapper_ef3116.selected_e5445c::before {
   border-radius: 30%;
 }
 #app-mount .guilds__5e434 .tutorialContainer__1f388 .homeIcon__560eb {
   display: none;
 }
-#app-mount .guilds__5e434 .selected_ae80f7 .acronym_fb7739 {
+#app-mount .guilds__5e434 .selected_e5445c .acronym_fb7739 {
   background: var(--foreground-double);
 }
 #app-mount .guilds__5e434 .acronym_fb7739 {
