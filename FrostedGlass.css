@@ -546,7 +546,7 @@ textarea {
 #app-mount .f75fb00fb7356cbe-title {
   background: transparent;
 }
-#app-mount .f75fb00fb7356cbe-title ._974928fe84ca9647-searchBar {
+#app-mount .f75fb00fb7356cbe-title .c322aadb96ff59c9-searchBar {
   border: none;
   background: var(--background-secondary);
 }
@@ -1381,32 +1381,32 @@ textarea {
   background: transparent;
   box-shadow: none;
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-displayedNick {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-displayedNick {
   color: var(--text-normal);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-displayUsername {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-displayUsername {
   color: var(--text-muted);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option ._56fec8e8b8048fe0-content {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option ._16eb0bfd5c5a90d1-content {
   --webkit-mask-image: linear-gradient(90deg, white, white 95%, transparent);
   -webkit-mask-image: linear-gradient(90deg, white, white 95%, transparent);
           mask-image: linear-gradient(90deg, white, white 95%, transparent);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option ._56fec8e8b8048fe0-plusIcon {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option ._16eb0bfd5c5a90d1-plusIcon {
   color: var(--text-normal);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option:hover ._56fec8e8b8048fe0-content {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option:hover ._16eb0bfd5c5a90d1-content {
   --webkit-mask-image: linear-gradient(90deg, white, white 87%, transparent 92%, transparent);
   -webkit-mask-image: linear-gradient(90deg, white, white 87%, transparent 92%, transparent);
           mask-image: linear-gradient(90deg, white, white 87%, transparent 92%, transparent);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option.selected-rZcOL- {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option.selected-rZcOL- {
   background: var(--foreground);
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option.selected-rZcOL-::after {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option.selected-rZcOL-::after {
   background: linear-gradient(90deg, transparent, var(--foreground-double));
 }
-#app-mount ._55c999adcf6db265-container ._56fec8e8b8048fe0-option::after {
+#app-mount ._55c999adcf6db265-container ._16eb0bfd5c5a90d1-option::after {
   background: transparent;
 }
 #app-mount ._55c999adcf6db265-container .react-datepicker,
@@ -1877,7 +1877,7 @@ textarea {
 #app-mount ._960e4207cea8323e-layer :not(._960e4207cea8323e-baseLayer) .c7f964e7e0fc8b47-connectionDelete:active {
   background: var(--foreground-triple);
 }
-#app-mount ._960e4207cea8323e-layer :not(._960e4207cea8323e-baseLayer) ._4bb93312e84f332e-card::before {
+#app-mount ._960e4207cea8323e-layer :not(._960e4207cea8323e-baseLayer) .b846e57d7dad7f1a-card::before {
   border-color: transparent;
   background: var(--foreground);
 }
